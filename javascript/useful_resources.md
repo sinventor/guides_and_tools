@@ -1,0 +1,6 @@
+* [davidwalsh-blog](https://davidwalsh.name/tutorials/javascript)
+* [addyosmani-blog](https://addyosmani.com/blog/)
+* [derickbailey-blog](https://derickbailey.com/categories/javascript/)
+* [jstherightway](http://jstherightway.org/)
+* [joezimjs-blog](https://www.joezimjs.com/)
+* [2ality](http://2ality.com/)
